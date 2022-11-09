@@ -8,7 +8,7 @@ These tutorials were created by Maxine Ty (maxine.ty@mail.utoronto.ca)
 
 The dataset included for the qiime2 tutorial was originally for a study that compared how different microbial-based products would affect the gut microbial composition compared to antibiotic treatment. Originally 158 chicken cecal content samples were used for this project; for simplicity, only 10 samples were used in this tutorial dataset. 
 
-For your interest and further reading, this is the study link: https://rdcu.be/cZlog
+For your interest and further reading, this is the study published in Animal Microbiome: https://rdcu.be/cZlog
 
 ## Tutorials
 The two tutorials under this repository (the two pages in the Wiki tab) will take you through workflows for working with 16S rRNA data. 
